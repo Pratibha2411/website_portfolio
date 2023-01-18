@@ -2,6 +2,6 @@
 
 ## git clone 
 
-###Set-up:
-    > npm install
-    > npm start
+### Set-up:
+     npm install
+     npm start
